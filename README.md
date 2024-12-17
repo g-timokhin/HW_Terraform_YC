@@ -14,4 +14,7 @@
 
 В частности было исправлено значение параметра platform_id для ресурса yandex_compute_instance c standart_v4, которое отсутствует в [документации](https://yandex.cloud/ru/docs/compute/concepts/vm-platforms), на standard_v3, соответствующее платформе Intel Ice Lake, рекомендованной для использования в учебных из-за низкой стоимости использования. Значения cores, memory, core_fraction были изменены в соответствии с требованиями к конфигурации используемой платформы, предъявляемыми провайдером (Yandex Cloud)
 
+В результате выполнения кода ресурс был создан успешно 
+
+![image](https://github.com/user-attachments/assets/105ff61d-c3e8-479d-8a0c-6eeb40a40c0f)
 
