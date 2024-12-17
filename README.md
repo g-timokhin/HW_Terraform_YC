@@ -18,3 +18,7 @@
 
 ![image](https://github.com/user-attachments/assets/105ff61d-c3e8-479d-8a0c-6eeb40a40c0f)
 
+После перезапуска внешний адрес ВМ был изменен на 
+
+
+
