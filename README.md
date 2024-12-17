@@ -16,9 +16,15 @@
 
 В результате выполнения кода ресурс был создан успешно 
 
-![image](https://github.com/user-attachments/assets/105ff61d-c3e8-479d-8a0c-6eeb40a40c0f)
+![image](https://github.com/user-attachments/assets/61e8d916-aa96-4ff5-bd59-d991035b7191)
+
 
 После перезапуска внешний адрес ВМ был изменен на 
+
+**Подключение к ВМ через ssh**
+
+![image](https://github.com/user-attachments/assets/8a5f2629-7538-45ca-a942-2f94a4f17168)
+
 
 
 
