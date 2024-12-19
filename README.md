@@ -34,6 +34,10 @@
 
 # Задание 2
 
+Значения параметров для ресурсов yandex_compute_image и yandex_compute_instance успешно заменены на переменные
+
+![image](https://github.com/user-attachments/assets/1acda303-c204-4f40-9959-b8263371cdea)
+
 
 
 
