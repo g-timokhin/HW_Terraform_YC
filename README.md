@@ -52,6 +52,13 @@
 
 ![image](https://github.com/user-attachments/assets/520368fb-a162-4ef8-b6dc-548f06b23083)
 
+# Задание 5
+
+Имена ВМ определены с помощью локальных переменных
+
+![image](https://github.com/user-attachments/assets/55d950fb-827e-4ab4-9c43-984e29346703)
+
+
 
 
 
