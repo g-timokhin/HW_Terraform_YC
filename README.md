@@ -38,6 +38,14 @@
 
 ![image](https://github.com/user-attachments/assets/1acda303-c204-4f40-9959-b8263371cdea)
 
+# Задание 3
+
+Успешно созданы две ВМ в разных зонах
+
+![image](https://github.com/user-attachments/assets/6dfb2acf-972d-4414-a67d-0de1cd44140d)
+
+
+
 
 
 
