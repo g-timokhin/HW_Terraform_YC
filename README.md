@@ -58,6 +58,14 @@
 
 ![image](https://github.com/user-attachments/assets/55d950fb-827e-4ab4-9c43-984e29346703)
 
+# Задание 6
+
+Использование переменных с типом map(object)
+На скрине вывод команды terraform plan
+
+![image](https://github.com/user-attachments/assets/995bed36-7e2d-4b5a-b4e4-41ec5493df1e)
+
+
 
 
 
