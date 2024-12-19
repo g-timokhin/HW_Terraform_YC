@@ -46,6 +46,13 @@
 
 ![image](https://github.com/user-attachments/assets/f7e9eeaf-0a02-4215-8cda-cd500b3cf251)
 
+# Задание 4
+
+Вывод команды terraform output
+
+![image](https://github.com/user-attachments/assets/520368fb-a162-4ef8-b6dc-548f06b23083)
+
+
 
 
 
